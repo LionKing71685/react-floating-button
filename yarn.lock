@@ -1073,14 +1073,15 @@ grunt-contrib-watch@^0.6.1:
     lodash "~2.4.1"
     tiny-lr-fork "0.0.5"
 
-grunt-gh-pages@^0.9.1:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/grunt-gh-pages/-/grunt-gh-pages-0.9.1.tgz#08b9a3d84939feea234e6684e43ff27f865dc3f4"
+grunt-gh-pages@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/grunt-gh-pages/-/grunt-gh-pages-0.10.0.tgz#69f1fa787f8021b715d20347c5d470a953501910"
   dependencies:
     async "0.2.9"
     graceful-fs "2.0.1"
     q "0.9.3"
     q-io "1.6.5"
+    url-safe "^1.0.0"
     wrench "1.5.1"
 
 grunt-legacy-log-utils@~0.1.1:
@@ -2590,6 +2591,10 @@ underscore@~1.7.0:
 unique-stream@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unique-stream/-/unique-stream-1.0.0.tgz#d59a4a75427447d9aa6c91e70263f8d26a4b104b"
+
+url-safe@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/url-safe/-/url-safe-1.0.1.tgz#2d251a4b4d3111dca94f36446e63a994b4d28786"
 
 url2@~0.0.0:
   version "0.0.0"
